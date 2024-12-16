@@ -7,7 +7,7 @@
           Sekolah Developer Indonesia
         </h1>
         <p className="mt-4 md:mt-6 text-lg md:text-xl lg:text-2xl text-center px-4">
-          Lorem Ipsum is simply dummy text of the printing
+        Raih Masa Depan Cemerlang dengan Pendidikan IT Terbaik. Bergabunglah dengan Sekolah IT Boarding Setingkat SMA Kami Sekarang! Jadilah Bagian dari Revolusi Digital. Daftar di Sekolah Developer Indonesia dan Siapkan Diri untuk Karir Gemilang di Dunia Teknologi.
         </p>
       </header>
     </section>
